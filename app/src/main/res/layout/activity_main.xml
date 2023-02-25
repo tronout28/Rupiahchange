@@ -15,7 +15,7 @@
 
     <ImageView
         android:layout_below="@+id/imgatas"
-        android:src="@drawable/bank1"
+        android:src="@drawable/logo_mata_uang"
         android:id="@+id/gambarAtas"
         android:layout_centerHorizontal="true"
         android:layout_width="300dp"
